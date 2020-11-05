@@ -1,0 +1,7 @@
+# 1. run setup_folders
+# 2. populate /scans with preprocessed t1s
+# 3. rename t1s so they fit the format : ID_t1.mnc
+# 4. populate surfaces/WM_0_surfaces with white_surfaces from CIVET output
+# 5. rename white_surfaces so they fit the format ID_WM_0_surface_left.obj (same for right)
+# 6. populate surfaces/GM_50_surfaces with mid_surfaces from CIVET output
+# 7. rename mid_surfaces so they fit the format ID_GM_50_surface_left.obj (same for right)
