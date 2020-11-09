@@ -5,3 +5,4 @@
 # 5. rename white_surfaces so they fit the format ID_WM_0_surface_left.obj (same for right)
 # 6. populate surfaces/GM_50_surfaces with mid_surfaces from CIVET output
 # 7. rename mid_surfaces so they fit the format ID_GM_50_surface_left.obj (same for right)
+# 8. populate /surf_maps with /transforms/surfreg from CIVET output
